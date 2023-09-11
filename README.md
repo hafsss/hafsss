@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Hafsa Desoukey
+- 👀 I’m interested in developing web applications using MERN technologies
+- 🌱 I’m currently learning HTML,CSS and Javascript
+- 📫 How to reach me : my Linkedin account is https://www.linkedin.com/in/hafsa-desoukey-49421624b/
